@@ -255,3 +255,10 @@ Tab:AddButton({
        loadstring(game:HttpGet("https://pastebin.com/raw/88m8h9xk"))()
   end
  })
+
+Tab:AddButton({
+    Name = "Somchai135792 logo",
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/Porsche555/My-logo/refs/heads/main/My%20logo"))()
+  end
+ })
