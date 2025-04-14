@@ -245,7 +245,7 @@ Tab:AddButton({
 Tab:AddButton({
     Name = "Project 007n7",
     Callback = function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/Porsche555/Gui-idk/refs/heads/main/Gui%20idk"))()
+       loadstring(game:HttpGet("https://pastebin.com/raw/hEFh1qUC"))()
   end
  })
 
