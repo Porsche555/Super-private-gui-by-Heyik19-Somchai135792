@@ -3,7 +3,7 @@ local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/WRUyYTdY')))
 
 
 local Window = OrionLib:MakeWindow({
-    Name = "private gui by Heyik19/Somchai135792",
+    Name = "Super private gui by Heyik19/Somchai135792",
     HidePremium = false,
     SaveConfig = true,
     ConfigFolder = "Name" -- Put the name of your hub or script here!
