@@ -262,3 +262,10 @@ Tab:AddButton({
        loadstring(game:HttpGet("https://raw.githubusercontent.com/Porsche555/My-logo/refs/heads/main/My%20logo"))()
   end
  })
+
+Tab:AddButton({
+    Name = "Polaria 2",
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/Porsche555/Polaria/refs/heads/main/Polaria"))()
+  end
+ })
