@@ -283,3 +283,10 @@ Tab:AddButton({
        loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Grab-knife-v4-24753"))()
   end
  })
+
+Tab:AddButton({
+    Name = "Delta keyboard",
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt"))()
+  end
+ })
