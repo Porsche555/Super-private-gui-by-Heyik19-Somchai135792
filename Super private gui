@@ -46,9 +46,9 @@ Tab:AddButton({
 })
 
 Tab:AddButton({
-    Name = "logo stigma ultimate",
+    Name = "Yong Shelon By 007n7",
     Callback = function()
-       loadstring(game:HttpGet(('https://pastebin.com/raw/VbMpnRRy')))()
+       loadstring(game:HttpGet("https://pastebin.com/raw/rSKeijCz"))()
   end    
 })
 
@@ -236,9 +236,9 @@ Tab:AddButton({
  })
 
 Tab:AddButton({
-    Name = "SadRc7 logo",
+    Name = "Project lua",
     Callback = function()
-       loadstring(game:HttpGet("https://paste.ee/r/RXcke3S1/0"))()
+       loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Project-Lua-Inspired-by-Project-Ligma-26224"))()
   end
  })
 
@@ -257,9 +257,9 @@ Tab:AddButton({
  })
 
 Tab:AddButton({
-    Name = "Somchai135792 logo",
+    Name = "Project Shiba",
     Callback = function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/Porsche555/My-logo/refs/heads/main/My%20logo"))()
+       loadstring(game:HttpGet("https://pastebin.com/raw/HrE2dKSD"))()
   end
  })
 
@@ -290,3 +290,104 @@ Tab:AddButton({
        loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt"))()
   end
  })
+
+local Tab = Window:MakeTab({
+    Name = "Inject logos",
+    Icon = "rbxassetid://1",
+    PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+    Name = "script in here"
+})
+
+local playerName = game.Players.LocalPlayer.Name
+
+Tab:AddButton({
+    Name = "Somchai135792 logo",
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/Porsche555/My-logo/refs/heads/main/My%20logo"))()
+  end
+ })
+
+Tab:AddButton({
+    Name = "SadRc7 logo",
+    Callback = function()
+       loadstring(game:HttpGet("https://paste.ee/r/RXcke3S1/0"))()
+  end
+ })
+
+Tab:AddButton({
+    Name = "logo stigma ultimate",
+    Callback = function()
+       loadstring(game:HttpGet(('https://pastebin.com/raw/VbMpnRRy')))()
+  end    
+})
+
+Tab:AddButton({
+    Name = "logo Project lua",
+    Callback = function()
+       loadstring(game:HttpGet(('https://pastebin.com/raw/HTBxzUaq')))()
+  end    
+})
+
+local Tab = Window:MakeTab({
+    Name = "main2",
+    Icon = "rbxassetid://1",
+    PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+    Name = "script in here"
+})
+
+local playerName = game.Players.LocalPlayer.Name
+
+Tab:AddButton({
+    Name = "T0PK3K 4.0",
+    Callback = function()
+       loadstring(game:HttpGet("https://rawscripts.net/raw/Natural-Disaster-Survival-idk-script-t0pk3k-29594"))()
+  end    
+})
+
+Tab:AddButton({
+    Name = "Obunga jumpscare",
+    Callback = function()
+       loadstring(game:HttpGet(('https://pastebin.com/raw/nLJkW0s1')))()
+  end    
+})
+
+Tab:AddButton({
+    Name = "Jeff the killer jumpscare",
+    Callback = function()
+       loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Jeff-The-Killer-JumpScare-27384"))()
+  end    
+})
+
+Tab:AddButton({
+    Name = "Rc7 require",
+    Callback = function()
+       loadstring(game:HttpGet(('https://pastebin.com/raw/CVecVrT1')))()
+  end    
+})
+
+Tab:AddButton({
+    Name = "Tiger X",
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/balintTheDevX/Tiger-X-V3/main/Tiger%20X%20V3.5%20Fixed"))()
+  end    
+})
+
+Tab:AddButton({
+    Name = "Fe bypass gui [FIXED]",
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/g00lXploiter/g00lXploiter/main/Fe%20bypass", true))()
+  end    
+})
+
+Tab:AddButton({
+    Name = "Yong Shelon Gui",
+    Callback = function()
+       loadstring(game:HttpGet("https://pastebin.com/raw/sGRa5mG6"))()
+  end    
+})
