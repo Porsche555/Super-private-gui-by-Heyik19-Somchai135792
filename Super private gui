@@ -391,3 +391,24 @@ Tab:AddButton({
        loadstring(game:HttpGet("https://pastebin.com/raw/sGRa5mG6"))()
   end    
 })
+
+Tab:AddButton({
+    Name = "Ak47",
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/ak47", true))()
+  end    
+})
+
+Tab:AddButton({
+    Name = "Heyik19 gui",
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/Porsche555/Heyik19-gui-real/refs/heads/main/Heyik19%20gui"))()
+  end    
+})
+
+Tab:AddButton({
+    Name = "k00pkidd gui (pass is k00pkidd)",
+    Callback = function()
+       loadstring(game:HttpGet("https://rawscripts.net/raw/Client-Replication-k00pkidd-script-35450"))()
+  end    
+})
