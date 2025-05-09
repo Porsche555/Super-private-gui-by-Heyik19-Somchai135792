@@ -3,7 +3,7 @@ local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/WRUyYTdY')))
 
 
 local Window = OrionLib:MakeWindow({
-    Name = "Super private gui by Heyik19/Somchai135792",
+    Name = "Super private gui by Heyik19/Somchai135792 (Skid)",
     HidePremium = false,
     SaveConfig = true,
     ConfigFolder = "Name" -- Put the name of your hub or script here!
@@ -410,5 +410,19 @@ Tab:AddButton({
     Name = "k00pkidd gui (pass is k00pkidd)",
     Callback = function()
        loadstring(game:HttpGet("https://rawscripts.net/raw/Client-Replication-k00pkidd-script-35450"))()
+  end    
+})
+
+Tab:AddButton({
+    Name = "Neko (Sus)",
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/GooberDoesStuff/RandomClientRep/refs/heads/main/Neko.lua"))()
+  end    
+})
+
+Tab:AddButton({
+    Name = "F3x panel",
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/SkireScripts/F3X-Panel/main/Main.lua"))()
   end    
 })
