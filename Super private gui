@@ -426,3 +426,10 @@ Tab:AddButton({
        loadstring(game:HttpGet("https://raw.githubusercontent.com/SkireScripts/F3X-Panel/main/Main.lua"))()
   end    
 })
+
+Tab:AddButton({
+    Name = "Tidal (fake)",
+    Callback = function()
+       loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Tidal-executor-remake-39537"))()
+  end    
+})
